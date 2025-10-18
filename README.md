@@ -39,4 +39,5 @@ It provides deep insights into **employee attrition, performance, and workforce 
 
 Below is a screenshot of the Power BI dashboard for Bank Churn Analysis:
 
-<img width="918" height="518" alt="HR_Analytics Dashboard" src="https://github.com/user-attachments/assets/85843217-708a-482d-af93-50fda1253832" />
+<img width="918" height="518" alt="HR_Analytics Dashboard" src="https://github.com/komalb30/HR-Analytics/blob/main/Dashboard/HR_Analytics.pbix" />
+
