@@ -1,4 +1,4 @@
-# HR-Analytics👩🏻‍💼
+# HR-Analytics Dashboard👩🏻‍💼
 
 ### 📊 Project Overview
 This project is an end-to-end **HR Analytics Dashboard** built using **Python (Pandas, NumPy)** and **Power BI**.  
@@ -37,7 +37,7 @@ It provides deep insights into **employee attrition, performance, and workforce 
 
 ### 🖼️Power BI Dashboard
 
-Below is a screenshot of the Power BI dashboard for Bank Churn Analysis:
+Below is a screenshot of the Power BI dashboard for HR Analytics:
 
 <img width="918" height="518" alt="HR_Analytics Dashboard" src="https://github.com/komalb30/HR-Analytics/blob/main/Dashboard/HR_Analytics.pbix" />
 
