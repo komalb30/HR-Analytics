@@ -30,7 +30,7 @@ It provides deep insights into **employee attrition, performance, and workforce 
    - `attrition_flag` (binary target variable)  
 5. **Exported** the cleaned data as `HR_Analytics_Cleaned_for_PowerBI.csv` for Power BI import.
 
-###📊 Key Outcomes
+### 📊 Key Outcomes
 - Processed 1.4K+ employee records to identify high-risk attrition segments.
 - Reduced reporting time by 80% with automated Power BI updates.
 - Enhanced HR decision-making with data-backed attrition and performance trends.
