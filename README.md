@@ -54,8 +54,8 @@ The business needs a **data-driven approach** to understand:
 
 ### Source
 Internal HR dataset provided as:
-- `Original_HR_Analytics.csv` (raw data)
-- `Cleaned_dataset.csv` (processed version for analysis)
+- `HR_Analytics.csv` (raw data)
+- `cleaned_dataset.csv` (processed version for analysis)
 
 ### Size
 - **1,470 employee records**
@@ -98,7 +98,7 @@ HR Analytics Dashboard/
 │   └── cleaned_dataset.csv
 │
 ├── Power BI Dashboard/                  # Power BI dashboard file
-│   └── HR_Analytics.pbix.pbix
+│   └── HR_Analytics.pbix
 │
 ├── Reports/                   
 │   └── HR Analytics Reports.pdf
