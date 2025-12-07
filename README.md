@@ -144,9 +144,10 @@ Key observations from exploratory analysis:
 - **16.12% overall attrition**
 
 ### 2. Which roles have the highest attrition?
-- Sales Representatives (~40%)
-- Laboratory Technicians  
-- HR roles  
+- Sales Representative — 33 / 83 → 39.76%
+- Laboratory Technician — 62 / 259 → 23.94%
+- Human Resources (job role) — 12 / 52 → 23.08%
+- Sales Executive — 57 / 326 → 17.48%  
 
 ### 3. Does age affect attrition?
 - Highest attrition in **18–25** age group
