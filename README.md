@@ -1,6 +1,6 @@
 # 👩🏻‍💼HR Analytics Dashboard – Employee Attrition Analysis
 
-_Data-driven analysis of employee attrition to uncover workforce risk areas, improve retention strategies, and support HR decision-making using Python and Power BI._\
+_Data-driven analysis of employee attrition to uncover workforce risk areas, improve retention strategies, and support HR decision-making using Python and Power BI._
 ---
 ## 📌 Table of Contents
 - [Overview](#overview)  
@@ -51,7 +51,7 @@ The business needs a **data-driven approach** to understand:
 ---
 
 ## Dataset
-- Multiple CSV files located in /data/ folder (HR Analytics,)
+- CSV files located in /data/ folder (HR Analytics.csv)
 
 
 
