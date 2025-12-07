@@ -51,8 +51,49 @@ The business needs a **data-driven approach** to understand:
 ---
 
 ## Dataset
-- CSV files located in /data/ folder (HR Analytics.csv)
 
+### Source
+Internal HR dataset provided as:
+- `Original_HR_Analytics.csv` (raw data)
+- `Cleaned_dataset.csv` (processed version for analysis)
+
+### Size
+- **1,470 employee records**
+
+### Key Columns
+- `Age`, `AgeGroup` — employee age and categories  
+- `Attrition`, `Attrition_Flag` — attrition status  
+- `Department`, `JobRole` — organizational roles  
+- `MonthlyIncome` — income level  
+- `YearsAtCompany` — tenure  
+- `OverTime` — employee workload indicator  
+- `PerformanceLevel` — job performance  
+- `TenureCategory`, `IncomeCategory` — derived fields
+
+---
+
+## Tools & Technologies
+
+- **Python**
+  - Pandas (data manipulation)
+  - NumPy (calculations)
+- **Power BI**
+  - DAX
+  - Interactive BI visuals
+- **Excel**
+  - Primary inspection and validation
+ 
+---
+
+## Project Structure
+HR-Analytics/
+│
+├── Original_HR_Analytics.csv
+├── Cleaned_dataset.csv
+├── HR_Analytics.pbix
+├── HR_Analytics.png
+├── HR_Analysis.ipynb
+├── README.md
 
 
 
