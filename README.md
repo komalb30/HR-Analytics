@@ -39,5 +39,5 @@ It provides deep insights into **employee attrition, performance, and workforce 
 
 Below is a screenshot of the Power BI dashboard for HR Analytics:
 
-<img width="918" height="518" alt="HR_Analytics Dashboard" src="https://github.com/komalb30/HR-Analytics/blob/main/dashboard/HR_Dashboard.png" />
+<img width="918" height="518" alt="HR_Analytics Dashboard" src="https://github.com/komalb30/HR-Analytics/blob/main/dashboard/HR_Analytics.png" />
 
