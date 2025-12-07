@@ -96,6 +96,94 @@ HR-Analytics/
 ├── README.md
 
 
+---
+
+## Data Cleaning & Preparation
+
+Steps applied to transform the raw dataset into analyzable form:
+
+- Removed duplicate records  
+- Standardized categorical values (e.g., Overtime, JobRole)  
+- Corrected column formats  
+- Addressed missing or invalid values  
+- Created new features:
+  - Age group classification  
+  - Tenure buckets  
+  - Income categories  
+  - Binary attrition flag  
+- Verified column consistency across both datasets  
+
+---
+
+## Exploratory Data Analysis (EDA)
+
+Key observations from exploratory analysis:
+
+- Attrition is concentrated early in employee tenure  
+- Young employees show the highest exit rate  
+- Salary correlates only weakly with attrition  
+- Overtime has a strong relationship with employee exits  
+- Sales department employees earn more but leave more  
+- Performance rating is not a reliable retention indicator  
+
+---
+
+## Research Questions & Key Findings
+
+### 1. What is the attrition rate?
+- **16.12% overall attrition**
+
+### 2. Which roles have the highest attrition?
+- Sales Representatives (~40%)
+- Laboratory Technicians  
+- HR roles  
+
+### 3. Does age affect attrition?
+- Highest attrition in **18–25** age group
+
+### 4. Does experience matter?
+- Employees with **<2 years** tenure leave the most
+
+### 5. Does overtime influence attrition?
+- Yes: Overtime employees leave at **3× higher** rate
+
+### 6. Does higher income prevent attrition?
+- No — Sales department earns more and leaves more
+
+### 7. Do poor performers quit more?
+- No — Good and Excellent performers show similar exit rates
+
+---
+
+## Dashboard
+
+The Power BI dashboard provides a complete visual summary of attrition behavior with:
+
+- KPI cards:
+  - Total employees
+  - Attrition rate
+  - Avg tenure
+  - Monthly income
+- Attrition by:
+  - Department
+  - Job role
+  - Performance level
+- Workload analysis:
+  - Overtime vs attrition
+- Demographics:
+  - Age group analysis
+  - Gender distribution
+
+Dashboard file:  
+📁 `HR_Analytics.pbix`
+
+---
+
+## How to Run This Project
+
+### Step 1: Clone Project
+```bash
+git clone https://github.com/yourusername/hr-analytics-dashboard.git
 
 
 
