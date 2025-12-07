@@ -93,11 +93,11 @@ HR Analytics Dashboard/
 ├── notebooks/                  # Jupyter notebooks
 │   ├── Python_HR_Analytics.ipynb
 │
-├── data/                     # CSV Files
+├── data/                       # CSV Files
 │   ├── HR_Analytics.csv
 │   └── cleaned_dataset.csv
 │
-├── Power BI Dashboard/                  # Power BI dashboard file
+├── Power BI Dashboard/         # Power BI dashboard file
 │   └── HR_Analytics.pbix
 │
 ├── Reports/                   
