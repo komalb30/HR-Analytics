@@ -13,7 +13,6 @@ _Data-driven analysis of employee attrition to uncover workforce risk areas, imp
 - [Exploratory Data Analysis (EDA)](#exploratory-data-analysis-eda)  
 - [Research Questions & Key Findings](#research-questions--key-findings)  
 - [Dashboard](#dashboard)  
-- [How to Run This Project](#how-to-run-this-project)  
 - [Final Recommendations](#final-recommendations)  
 
 ---
@@ -189,4 +188,13 @@ The Power BI dashboard provides a complete visual summary of attrition behavior 
 Dashboard file:  
 📁 <img width="918" height="518" alt="HR_Analytics Dashboard" src="https://github.com/komalb30/HR-Analytics/blob/main/dashboard/HR_Analytics.png" />
 
+
+## Final Recommendations
+### Focus Areas
+- Fix early-stage attrition through stronger onboarding programs
+- Reduce overtime and rebalance workloads
+- Redesign Sales incentives and expectations
+- Introduce targeted retention programs for high-risk roles
+- Implement predictive attrition modeling
+- Track attrition monthly and by tenure group
 
