@@ -15,6 +15,42 @@ _Data-driven analysis of employee attrition to uncover workforce risk areas, imp
 - [How to Run This Project](#how-to-run-this-project)  
 - [Final Recommendations](#final-recommendations)  
 
+---
+
+## Overview
+
+This project focuses on analyzing employee attrition using HR data to identify at-risk employee groups, uncover retention drivers, and provide actionable insights for human resource strategy.  
+
+Using Python for data processing and Power BI for visualization, this project converts raw HR data into strategic insights that support workforce planning, employee engagement, and operational improvements.
+
+The final output includes:
+- A cleaned and transformed dataset  
+- Exploratory analysis using Python  
+- Interactive Power BI dashboard  
+- Business-ready insights and recommendations  
+
+---
+
+## Business Problem
+
+Employee attrition increases hiring costs, disrupts productivity, and weakens organizational stability.  
+The company is experiencing an overall attrition rate of approximately **16%**, but attrition is not evenly distributed.
+
+Key issues include:
+- Certain job roles losing employees at a significantly higher rate
+- Early-tenure employees leaving within their first two years
+- Overtime strongly correlating with attrition
+- Higher salaries not guaranteeing better retention
+- Younger employees resigning faster than senior age groups
+
+The business needs a **data-driven approach** to understand:
+- Who is leaving  
+- Why they are leaving  
+- Where retention actions should be focused  
+
+---
+
+## Dataset
 
 
 
