@@ -88,23 +88,21 @@ Internal HR dataset provided as:
 ## Project Structure
 
 ```
-vendor-performance-analysis/
-│
-├── README.md
-├── .gitignore
-├── requirements.txt
-├── Vendor Performance Report.pdf
+HR Analytics Dashboard/
 │
 ├── notebooks/                  # Jupyter notebooks
-│   ├── exploratory_data_analysis.ipynb
-│   ├── vendor_performance_analysis.ipynb
+│   ├── Python_HR_Analytics.ipynb
 │
-├── scripts/                    # Python scripts for ingestion and processing
-│   ├── ingestion_db.py
-│   └── get_vendor_summary.py
+├── data/                     # CSV Files
+│   ├── HR_Analytics.csv
+│   └── cleaned_dataset.csv
 │
-├── dashboard/                  # Power BI dashboard file
-│   └── vendor_performance_dashboard.pbix
+├── Power BI Dashboard/                  # Power BI dashboard file
+│   └── HR_Analytics.pbix.pbix
+│
+├── Reports/                   
+│   └── HR Analytics Reports.pdf
+├── README.md
 
 ```
 
