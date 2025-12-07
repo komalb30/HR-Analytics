@@ -51,7 +51,7 @@ The business needs a **data-driven approach** to understand:
 ---
 
 ## Dataset
-
+- Multiple CSV files located in /data/ folder (HR Analytics,)
 
 
 
