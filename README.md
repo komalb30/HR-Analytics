@@ -85,6 +85,9 @@ Internal HR dataset provided as:
  
 ---
 
+## Project Structure
+
+'''
 vendor-performance-analysis/
 │
 ├── README.md
@@ -103,6 +106,7 @@ vendor-performance-analysis/
 ├── dashboard/                  # Power BI dashboard file
 │   └── vendor_performance_dashboard.pbix
 
+'''
 
 ---
 
