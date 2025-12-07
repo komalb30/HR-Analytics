@@ -190,6 +190,7 @@ Dashboard file:
 
 
 ## Final Recommendations
+
 ### Focus Areas
 - Fix early-stage attrition through stronger onboarding programs
 - Reduce overtime and rebalance workloads
