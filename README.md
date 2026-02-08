@@ -1,4 +1,4 @@
-# 👩🏻‍💼HR Analytics Dashboard – Employee Attrition Analysis
+# 👩🏻‍💼HR Employee Attrition Analysis
 
 _Data-driven analysis of employee attrition to uncover workforce risk areas, improve retention strategies, and support HR decision-making using Python and Power BI._
 
@@ -99,9 +99,7 @@ HR Analytics Dashboard/
 │
 ├── Power BI Dashboard/         # Power BI dashboard file
 │   └── HR_Analytics.pbix
-│
-├── Reports/                   
-│   └── HR Analytics Reports.pdf
+|
 ├── README.md
 
 ```
