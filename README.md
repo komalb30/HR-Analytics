@@ -185,7 +185,7 @@ The Power BI dashboard provides a complete visual summary of attrition behavior 
   - Gender distribution
 
 Dashboard file:  
-📁 <img width="918" height="518" alt="HR_Analytics Dashboard" src="https://github.com/komalb30/HR-Analytics/blob/main/dashboard/HR_Analytics.png" />
+<img width="918" height="518" alt="HR_Analytics Dashboard" src="https://github.com/komalb30/HR-Analytics/blob/main/dashboard/HR_Analytics.png" />
 
 
 ## Final Recommendations
