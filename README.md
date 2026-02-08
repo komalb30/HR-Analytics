@@ -1,4 +1,4 @@
-# 👩🏻‍💼HR Employee Attrition Analysis
+# 👩🏻‍💼HR Attrition Analytics
 
 _Data-driven analysis of employee attrition to uncover workforce risk areas, improve retention strategies, and support HR decision-making using Python and Power BI._
 
